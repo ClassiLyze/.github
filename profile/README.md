@@ -14,3 +14,5 @@ This organization is a sandbox environment for exploring GitHub's features, incl
 
 ---
 🛠️ *Remember, GitHub is a powerful tool—use it to build, test, and innovate!*  
+
+👉 [To see all of our work, check out our Projects page.](../../projects)
