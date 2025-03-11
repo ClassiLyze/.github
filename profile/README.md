@@ -15,4 +15,6 @@ This organization is a sandbox environment for exploring GitHub's features, incl
 ---
 🛠️ *Remember, GitHub is a powerful tool—use it to build, test, and innovate!*  
 
-👉 [To see all of our work, check out our Projects page.](https://github.com/orgs/ClassiLyze/projects/2)
+👉 [Check out our Projects page](https://github.com/orgs/ClassiLyze/projects/2)  
+📋 [View the Global Sprint Backlog](https://github.com/orgs/ClassiLyze/projects/2/views/2)  
+📈 [See the Burn Up Chart](https://github.com/orgs/ClassiLyze/projects/2/insights)  
